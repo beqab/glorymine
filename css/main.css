@@ -808,6 +808,13 @@ ul {
   height: 20px;
   color: #00adf2;
   margin-right: 8px;
+  width: 20px;
+}
+.advantages_item div {
+  width: calc(100% - 36px);
+}
+.step img {
+  max-width: 70px;
 }
 .advantages_item {
   display: flex;
@@ -815,6 +822,7 @@ ul {
   /* justify-content: center; */
   width: 100%;
   text-align: left;
+  min-height: 40px;
   margin-bottom: 10px;
 }
 .section {
