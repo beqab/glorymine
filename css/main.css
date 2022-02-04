@@ -494,8 +494,8 @@ ul {
 .landSection {
   background: url("../img/newImgs/enovus\ 360-6.png");
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: bottom -0px right -0%;
+  background-size: 32%;
+  background-position: bottom -0px right -3%;
 }
 @media (max-width: 768px) {
   .landSection {
