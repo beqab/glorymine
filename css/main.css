@@ -490,6 +490,21 @@ ul {
     color: #fff;
   }
 }
+
+.landSection {
+  background: url("/img/newImgs/enovus\ 360-6.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom -0px right -0%;
+}
+@media (max-width: 768px) {
+  .landSection {
+    background: url("/img/newImgs/enovus\ 360-6.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: bottom 20% right 3%;
+  }
+}
 @media (min-width: 1440px) {
   .header {
     padding: 0 50px;
