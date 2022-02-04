@@ -664,6 +664,7 @@ ul {
   }
   .home--ellipse:before {
     background: url("../img/home/home-bg2.jpg") no-repeat center center/cover;
+    background: #a8ccf500;
   }
   .home--rectangle:before,
   .home--rectangle:after {
@@ -678,6 +679,7 @@ ul {
   }
   .home--rectangle:before {
     background: url("../img/home/home-bg2.jpg") no-repeat center center/cover;
+    background: #a8ccf500;
   }
   .home__content {
     padding-top: 45px;
