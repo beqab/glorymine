@@ -637,7 +637,7 @@ ul {
     z-index: -2;
   }
   .home:after {
-    background-color: #f2f7fd;
+    background-color: #78b0ef;
     z-index: -1;
     opacity: 0.65;
   }
@@ -663,7 +663,7 @@ ul {
     display: block;
   }
   .home--ellipse:before {
-    background: url("../img/newImgs/2-4.jpg") no-repeat center center/cover;
+    background: url("../img/home/home-bg2.jpg") no-repeat center center/cover;
   }
   .home--rectangle:before,
   .home--rectangle:after {
@@ -677,7 +677,7 @@ ul {
     border-radius: 20%;
   }
   .home--rectangle:before {
-    background: url("../img/newImgs/2-4.jpg") no-repeat center center/cover;
+    background: url("../img/home/home-bg2.jpg") no-repeat center center/cover;
   }
   .home__content {
     padding-top: 45px;
@@ -818,7 +818,7 @@ ul {
 }
 
 .newLogo {
-  height: 50px;
+  height: 60px;
 }
 .advantages_item {
   display: flex;
